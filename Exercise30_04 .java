@@ -1,7 +1,7 @@
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
-public class Exercise30_4 {
+public class Exercise30_04 {
  private static Integer sum = 0;
  public static void main(String[] args) {
   ExecutorService executor = Executors.newCachedThreadPool();
