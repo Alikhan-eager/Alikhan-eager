@@ -5,7 +5,7 @@ import javafx.scene.Scene;
 import javafx.scene.input.KeyCode;
 import javafx.stage.Stage;
 
-public class EX15_29 extends Application {
+public class Exercise15_29 extends Application {
     @Override // Override the start method on the Application class
     public void start(Stage primaryStage) {
         // Create a car
