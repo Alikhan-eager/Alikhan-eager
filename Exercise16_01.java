@@ -19,7 +19,7 @@ import javafx.stage.Stage;
  * use buttons to move the message to the left and right and use the radio buttons to
  * change the color for the message displayed.
  */
-public class Ex16_1 extends Application {
+public class Exercise16_01 extends Application {
 
 
     @Override
